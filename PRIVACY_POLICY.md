@@ -1,6 +1,6 @@
-## Cat by the window: Privacy policy
+## Cats Purr: Privacy policy
 
-Welcome to the Cat by the window app for Android!
+Welcome to the Cats Purr app for Android!
 
 As an avid Android user myself, I take privacy very seriously.
 
